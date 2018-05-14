@@ -2,6 +2,8 @@ Course Projects for CS 418 - Intro to Data Science at UIC taught by Prof. Isabel
 
 Course Projects Link: http://cs418.cs.uic.edu/project.html#tasks
 
+Website for visualization : https://jaspreetksohal.github.io/ids/index.html
+
 Clone the repository:
 
 git clone https://github.com/ikmalpani/cs418-data-science.git
